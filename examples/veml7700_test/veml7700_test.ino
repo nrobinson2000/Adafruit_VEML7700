@@ -1,4 +1,4 @@
-#include "Adafruit_VEML7700/Adafruit_VEML7700.h"
+#include "Adafruit_VEML7700.h"
 
 Adafruit_VEML7700 veml;
 
