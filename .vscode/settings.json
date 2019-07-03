@@ -1,6 +1,0 @@
-{
-    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
-    "particle.firmwareVersion": "1.1.0",
-    "cortex-debug.openocdPath": "/Users/nrobinson/.particle/toolchains/openocd/0.10.0-particle.1/bin/openocd",
-    "C_Cpp.configurationWarnings": "Disabled"
-}
